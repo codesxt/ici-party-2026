@@ -8,3 +8,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Javier Cofré
 * Joaquin Carrasco
 * Benjamin Castillo
+* Nicolás Bravo
