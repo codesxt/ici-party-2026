@@ -48,3 +48,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Ivan Moraga
 * Lucas Ortiz Warnken
 * Juan Núñez
+* Christopher Quiroz
