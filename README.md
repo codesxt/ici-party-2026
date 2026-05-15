@@ -47,3 +47,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Marcial Núñez
 * Ivan Moraga
 * Lucas Ortiz Warnken
+* Juan Núñez
