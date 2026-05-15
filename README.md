@@ -1,6 +1,7 @@
 # Lista de Invitados
 
 Añade tu nombre al final de la lista para poder participar.
+
 * Bruno Faúndez
 * Juan Estevan Arias Gonzalez.
 * Ignacia Carrera ( ͡°👅 ͡°)
@@ -15,7 +16,7 @@ Añade tu nombre al final de la lista para poder participar.
 * Gabriel Arenas
 * Joaquin Gallardo
 * Diego Fariña
-* Ronaldo Guerrero 
+* Ronaldo Guerrero
 * Fabian Becerra
 * Adolfo Cancino
 * Miguel Duarte
@@ -50,3 +51,5 @@ Añade tu nombre al final de la lista para poder participar.
 * Juan Núñez
 * Christopher Quiroz
 * Joaquín Parra
+* Larry Villarroel
+
