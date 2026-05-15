@@ -45,3 +45,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Carina Peña y Lillo Amaro
 * Catalina Ramirez
 * Marcial Núñez
+* Ivan Moraga
