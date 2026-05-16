@@ -55,3 +55,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Amaro Villalobos 
 * Melisa Rodriguez
 * Larry Villarroel
+* Renato Vergara
