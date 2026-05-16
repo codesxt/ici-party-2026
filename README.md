@@ -52,6 +52,7 @@ Añade tu nombre al final de la lista para poder participar.
 * Luis Torrejón
 * Christopher Quiroz
 * Joaquín Parra
+* Nikos Vosila
 * Alexander Valenzuela 
 * Amaro Villalobos 
 * Melisa Rodriguez
