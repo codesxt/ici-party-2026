@@ -56,5 +56,6 @@ Añade tu nombre al final de la lista para poder participar.
 * Alexander Valenzuela 
 * Amaro Villalobos 
 * Melisa Rodriguez
+* Lukas Seguel
 * Larry Villarroel
 * Renato Vergara
